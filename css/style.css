@@ -63,6 +63,7 @@ header nav ul li a {
     background-position: center;
 }
 
+
 .oscar {
     display: flex;
     justify-content: center;
@@ -112,6 +113,7 @@ header nav ul li a {
     box-shadow: 46px 36px 44px 6px rgba(0, 0, 0, 0.93);
     -webkit-box-shadow: 46px 36px 44px 6px rgba(0, 0, 0, 0.93);
     -moz-box-shadow: 46px 36px 44px 6px rgba(0, 0, 0, 0.93);
+    
 }
 
 .imagenes div h3 {
